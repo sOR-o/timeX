@@ -1,0 +1,18 @@
+# Java Project Dependencies
+# This file lists the necessary dependencies for the AdvancedStopwatch Java project.
+
+# Java Development Kit (JDK)
+# Ensure you have JDK 19 or later installed
+# https://www.oracle.com/java/technologies/javase-jdk8-downloads.html
+
+# Swing Library
+# Java Swing library for building GUI applications
+# Included in standard Java distributions
+
+# Apache Maven (Optional)
+# Build automation tool used for managing project dependencies
+# https://maven.apache.org/
+
+# Gradle (Optional)
+# Build automation tool used for managing project dependencies
+# https://gradle.org/
