@@ -3,6 +3,9 @@
 timeX is a simple and customizable stopwatch application built in Java using Swing. It allows users to create multiple timers and stopwatches simultaneously, each with its own set of controls.
 
 Users can utilize timeX as a normal stopwatch while working or studying on their desktop to avoid distractions. Simply start the stopwatch and focus on the task at hand without worrying about losing track of time.
+
+https://github.com/sOR-o/Hand-Pose-Estimation/assets/69918938/a04d3138-deb5-4c6f-babe-68897fc39f80
+
 ## Features
 
 - **Multiple Timers**: Users can create and manage multiple countdown timers.
